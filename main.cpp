@@ -126,7 +126,7 @@ void Exercise2()
         if (!bExtraDivFound)
         {
             iNextPrimeNumber = iInput;
-            break; //бреак выше?
+            break;
         }
         else
             bExtraDivFound = false;
